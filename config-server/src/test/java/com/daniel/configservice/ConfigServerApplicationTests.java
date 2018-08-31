@@ -1,4 +1,4 @@
-package com.daniel.configserver;
+package com.daniel.configservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
